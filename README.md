@@ -1,12 +1,36 @@
-# Search-Engine
-Flexi - Credit Mini project 
+# Search-Engine  
+**Flexi - Credit Mini Project**  
 
-extract the zip contents
+### Setup Instructions  
 
-open login folder
-->backend -> npm install then run npm run
-->frontend -> npm install then run npm run
+1. **Extract Contents:**  
+   Unzip the project files.
 
-setup a mongo DB database wiht name Search-engine
+2. **Backend Setup:**  
+   - Navigate to `login/backend`.  
+   - Run:  
+     ```bash
+     npm install  
+     npm run  
+     ```
 
-now run python app.py
+3. **Frontend Setup:**  
+   - Navigate to `login/frontend`.  
+   - Run:  
+     ```bash
+     npm install  
+     npm run  
+     ```
+
+4. **Database Setup:**  
+   - Create a MongoDB database named `Search-engine`.
+
+5. **Run the Application:**  
+   - Execute the Python script:  
+     ```bash
+     python app.py  
+     ```
+
+---  
+
+Happy Searching! 🚀
