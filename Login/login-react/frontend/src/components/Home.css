@@ -1,0 +1,22 @@
+/* Home.css */
+.home-container {
+    background-image: linear-gradient(#00d5ff, #0095ff, rgba(93, 0, 255, .555));
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    transition: opacity 1s ease-in-out; 
+  }
+  
+  .fade-out {
+    opacity: 0; 
+  }
+  
+  .redirect-message {
+    background-color: #007bff; 
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+  }
